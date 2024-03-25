@@ -1,1 +1,3 @@
-This is a simple Neural Network that classifies the image either Cat or not. This was build during Neural Networks and Deep Learning course (1st course in a Deep learning specialization by Andrew Ng). 
+
+This file contains two neural networks for image classification (cat vs. non-cat), developed during Andrew Ng's "Neural Networks and Deep Learning" course. 
+These models, built solely with NumPy and h5py, include a simple two-layer network and a deeper model with multiple layers.
