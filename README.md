@@ -1,0 +1,1 @@
+This is a simple Neural Network that classifies the image either Cat or not. This was build during Neural Networks and Deep Learning course (1st course in a Deep learning specialization by Andrew Ng). 
