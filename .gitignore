@@ -1,1 +1,4 @@
 .conda
+public_tests.py
+test_utils.py
+
